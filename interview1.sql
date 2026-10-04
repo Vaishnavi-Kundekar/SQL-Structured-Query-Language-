@@ -1,0 +1,14 @@
+--What is a constraint in SQL?
+
+--Why do we use constraints in a database?
+--What are the different types of SQL constraints?
+--What is a NOT NULL constraint?
+--What is a UNIQUE constraint?
+--What is a PRIMARY KEY constraint?
+--What is a FOREIGN KEY constraint?
+--What is a CHECK constraint?
+--What is a DEFAULT constraint?
+--What is the difference between a PRIMARY KEY and UNIQUE constraint?
+--What is the difference between PRIMARY KEY and FOREIGN KEY?
+--What is the difference between UNIQUE and PRIMARY KEY?
+--What is the difference between NOT NULL and UNIQUE?
